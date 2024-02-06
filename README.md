@@ -3,9 +3,6 @@
 ## Структура
 
 ```
-│   .gitignore
-│   main.py
-│
 ├───bot
 │   │   __init__.py
 │   │
@@ -34,6 +31,8 @@
 └───utils
     │   helpers.py
     │   __init__.py
+.gitignore
+main.py
 ```
 
 ### Описание структуры
