@@ -2,7 +2,6 @@
 from aiogram import types
 from aiogram.dispatcher import FSMContext
 from aiogram.dispatcher.filters import Command
-from config.settings import ASK_START_TEXT
 
 async def help_command(message: types.Message):
     # Обработчик команды /help
