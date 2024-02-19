@@ -9,8 +9,7 @@ async def help_command(message: types.Message):
     await message.answer(f"<b>Здраствуй, {message.from_user.first_name}</b>"
                          "Вот список доступных команд:\n"
                          "<i>/start</i> - начать работу с ботом\n"
-                         "<i>/help</i> - получить справку о доступных командах"
-                         f"Чтобы задать вопрос используй '{ASK_START_TEXT}' в начале сообщения!")
+                         "<i>/help</i> - получить справку о доступных командах")
 
 
 # Регистрация обработчика команды /help
