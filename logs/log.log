@@ -1,0 +1,402 @@
+2024-02-27 12:04:16,416 - INFO - Start polling
+2024-02-27 12:04:16,632 - INFO - Run polling for bot @flacsy_test_bot id=6644870362 - 'Тестовый Бот'
+2024-02-27 12:04:16,731 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:16,732 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6644870362)
+2024-02-27 12:04:20,791 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:20,792 - WARNING - Sleep for 1.338948 seconds and try again... (tryings = 1, bot id = 6644870362)
+2024-02-27 12:04:22,205 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:22,206 - WARNING - Sleep for 1.676455 seconds and try again... (tryings = 2, bot id = 6644870362)
+2024-02-27 12:04:26,998 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:26,998 - WARNING - Sleep for 2.137326 seconds and try again... (tryings = 3, bot id = 6644870362)
+2024-02-27 12:04:29,198 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:29,200 - WARNING - Sleep for 2.875172 seconds and try again... (tryings = 4, bot id = 6644870362)
+2024-02-27 12:04:35,162 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:35,164 - WARNING - Sleep for 3.904176 seconds and try again... (tryings = 5, bot id = 6644870362)
+2024-02-27 12:04:39,130 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:39,131 - WARNING - Sleep for 4.873675 seconds and try again... (tryings = 6, bot id = 6644870362)
+2024-02-27 12:04:44,101 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:44,102 - WARNING - Sleep for 4.887268 seconds and try again... (tryings = 7, bot id = 6644870362)
+2024-02-27 12:04:58,006 - INFO - Start polling
+2024-02-27 12:04:58,131 - INFO - Run polling for bot @flacsy_test_bot id=6644870362 - 'Тестовый Бот'
+2024-02-27 12:04:58,187 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:04:58,187 - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 6644870362)
+2024-02-27 12:05:02,233 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:02,234 - WARNING - Sleep for 1.189332 seconds and try again... (tryings = 1, bot id = 6644870362)
+2024-02-27 12:05:03,470 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:03,471 - WARNING - Sleep for 1.657342 seconds and try again... (tryings = 2, bot id = 6644870362)
+2024-02-27 12:05:08,184 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:08,184 - WARNING - Sleep for 1.995279 seconds and try again... (tryings = 3, bot id = 6644870362)
+2024-02-27 12:05:10,219 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:10,220 - WARNING - Sleep for 2.366562 seconds and try again... (tryings = 4, bot id = 6644870362)
+2024-02-27 12:05:15,627 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:15,629 - WARNING - Sleep for 3.140530 seconds and try again... (tryings = 5, bot id = 6644870362)
+2024-02-27 12:05:18,820 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:18,822 - WARNING - Sleep for 4.382075 seconds and try again... (tryings = 6, bot id = 6644870362)
+2024-02-27 12:05:23,249 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:23,251 - WARNING - Sleep for 5.158079 seconds and try again... (tryings = 7, bot id = 6644870362)
+2024-02-27 12:05:28,448 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:28,450 - WARNING - Sleep for 5.076298 seconds and try again... (tryings = 8, bot id = 6644870362)
+2024-02-27 12:05:33,704 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:33,706 - WARNING - Sleep for 4.944037 seconds and try again... (tryings = 9, bot id = 6644870362)
+2024-02-27 12:05:38,690 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:38,691 - WARNING - Sleep for 4.906592 seconds and try again... (tryings = 10, bot id = 6644870362)
+2024-02-27 12:05:43,652 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:43,653 - WARNING - Sleep for 5.002408 seconds and try again... (tryings = 11, bot id = 6644870362)
+2024-02-27 12:05:48,756 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:48,756 - WARNING - Sleep for 4.881203 seconds and try again... (tryings = 12, bot id = 6644870362)
+2024-02-27 12:05:53,690 - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: can't use getUpdates method while webhook is active; use deleteWebhook to delete the webhook first
+2024-02-27 12:05:53,692 - WARNING - Sleep for 5.018762 seconds and try again... (tryings = 13, bot id = 6644870362)
+2024-02-27 12:06:13,640 - INFO - Start polling
+2024-02-27 12:06:13,743 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 12:06:25,344 - INFO - Update id=570774456 is handled. Duration 280 ms by bot id=7027029742
+2024-02-27 12:06:38,331 - INFO - Polling stopped
+2024-02-27 12:06:38,331 - INFO - Polling stopped for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 12:09:45,592 - INFO - Start polling
+2024-02-27 12:09:45,801 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 12:09:58,654 - INFO - Start polling
+2024-02-27 12:09:58,766 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 12:20:04,759 - INFO - Start polling
+2024-02-27 12:20:04,867 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 12:21:25,859 - INFO - Polling stopped
+2024-02-27 12:21:25,859 - INFO - Polling stopped for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 12:21:29,881 - INFO - Start polling
+2024-02-27 12:21:30,040 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:04:18,629 - INFO - Start polling
+2024-02-27 16:04:18,783 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:04:37,523 - ERROR - Error connecting to the database: unable to open database file
+2024-02-27 16:04:37,524 - INFO - Update id=570774457 is not handled. Duration 250 ms by bot id=7027029742
+2024-02-27 16:04:37,524 - ERROR - Cause exception while process update id=570774457 by bot id=7027029742
+OperationalError: unable to open database file
+Traceback (most recent call last):
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "f:\ExampleBotV2.1\bot\user\handlers\commands\start.py", line 17, in start_command
+    async with SQLiteDatabaseManager() as cursor:
+  File "f:\ExampleBotV2.1\database\database.py", line 23, in __aenter__
+    self.conn = await aiosqlite.connect(self.db_name)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 141, in _connect
+    self._connection = await future
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 106, in run
+    result = function()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 401, in connector
+    return sqlite3.connect(loc, **kwargs)
+sqlite3.OperationalError: unable to open database file
+2024-02-27 16:09:54,062 - INFO - Start polling
+2024-02-27 16:09:54,247 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:09:56,626 - ERROR - Error connecting to the database: unable to open database file
+2024-02-27 16:09:56,626 - INFO - Update id=570774458 is not handled. Duration 203 ms by bot id=7027029742
+2024-02-27 16:09:56,627 - ERROR - Cause exception while process update id=570774458 by bot id=7027029742
+OperationalError: unable to open database file
+Traceback (most recent call last):
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "f:\ExampleBotV2.1\bot\user\handlers\commands\start.py", line 16, in start_command
+    async with SQLiteDatabaseManager() as cursor:
+  File "f:\ExampleBotV2.1\database\database.py", line 19, in __aenter__
+    self.conn = await aiosqlite.connect("development/development.db")
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 141, in _connect
+    self._connection = await future
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 106, in run
+    result = function()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 401, in connector
+    return sqlite3.connect(loc, **kwargs)
+sqlite3.OperationalError: unable to open database file
+2024-02-27 16:10:25,839 - INFO - Polling stopped for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:10:25,840 - INFO - Polling stopped
+2024-02-27 16:10:29,221 - INFO - Start polling
+2024-02-27 16:10:29,435 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:10:30,978 - INFO - Update id=570774459 is not handled. Duration 280 ms by bot id=7027029742
+2024-02-27 16:10:30,978 - ERROR - Cause exception while process update id=570774459 by bot id=7027029742
+AttributeError: __aenter__
+Traceback (most recent call last):
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "f:\ExampleBotV2.1\bot\user\handlers\commands\start.py", line 16, in start_command
+    async with SQLiteDatabaseManager() as cursor:
+AttributeError: __aenter__
+2024-02-27 16:10:43,464 - INFO - Start polling
+2024-02-27 16:10:43,606 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:10:49,116 - INFO - Update id=570774460 is not handled. Duration 264 ms by bot id=7027029742
+2024-02-27 16:10:49,116 - ERROR - Cause exception while process update id=570774460 by bot id=7027029742
+AttributeError: __aenter__
+Traceback (most recent call last):
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "f:\ExampleBotV2.1\bot\user\handlers\commands\start.py", line 16, in start_command
+    async with SQLiteDatabaseManager() as cursor:
+AttributeError: __aenter__
+2024-02-27 16:12:13,172 - INFO - Polling stopped for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:12:13,173 - INFO - Polling stopped
+2024-02-27 16:12:17,077 - INFO - Start polling
+2024-02-27 16:12:18,324 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:12:26,786 - INFO - Update id=570774461 is not handled. Duration 155 ms by bot id=7027029742
+2024-02-27 16:12:26,786 - ERROR - Cause exception while process update id=570774461 by bot id=7027029742
+AttributeError: __aenter__
+Traceback (most recent call last):
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "f:\ExampleBotV2.1\bot\user\handlers\commands\start.py", line 16, in start_command
+    async with SQLiteDatabaseManager() as cursor:
+AttributeError: __aenter__
+2024-02-27 16:12:37,935 - INFO - Polling stopped for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:12:37,936 - INFO - Polling stopped
+2024-02-27 16:12:41,173 - INFO - Start polling
+2024-02-27 16:12:41,283 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:12:42,698 - ERROR - Error connecting to the database: unable to open database file
+2024-02-27 16:12:42,699 - INFO - Update id=570774462 is not handled. Duration 171 ms by bot id=7027029742
+2024-02-27 16:12:42,699 - ERROR - Cause exception while process update id=570774462 by bot id=7027029742
+OperationalError: unable to open database file
+Traceback (most recent call last):
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "f:\ExampleBotV2.1\bot\user\handlers\commands\start.py", line 16, in start_command
+    async with SQLiteDatabaseManager() as cursor:
+  File "f:\ExampleBotV2.1\database\database.py", line 19, in __aenter__
+    self.conn = await aiosqlite.connect("development/development.db")
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 141, in _connect
+    self._connection = await future
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 106, in run
+    result = function()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 401, in connector
+    return sqlite3.connect(loc, **kwargs)
+sqlite3.OperationalError: unable to open database file
+2024-02-27 16:13:03,673 - INFO - Polling stopped for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:13:03,673 - INFO - Polling stopped
+2024-02-27 16:13:06,936 - INFO - Start polling
+2024-02-27 16:13:07,036 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:13:15,461 - ERROR - Error connecting to the database: unable to open database file
+2024-02-27 16:13:15,462 - INFO - Update id=570774463 is not handled. Duration 186 ms by bot id=7027029742
+2024-02-27 16:13:15,462 - ERROR - Cause exception while process update id=570774463 by bot id=7027029742
+OperationalError: unable to open database file
+Traceback (most recent call last):
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\error.py", line 25, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\middlewares\user_context.py", line 27, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\fsm\middleware.py", line 41, in __call__
+    return await handler(event, data)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 156, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 128, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 123, in _wrapped
+    return await self._propagate_event(
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\router.py", line 148, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiogram\dispatcher\event\handler.py", line 43, in call
+    return await wrapped()
+  File "f:\ExampleBotV2.1\bot\user\handlers\commands\start.py", line 16, in start_command
+    async with SQLiteDatabaseManager() as cursor:
+  File "f:\ExampleBotV2.1\database\database.py", line 19, in __aenter__
+    self.conn = await aiosqlite.connect("development/development.db")
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 141, in _connect
+    self._connection = await future
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 106, in run
+    result = function()
+  File "C:\Users\FlacSy\AppData\Local\Programs\Python\Python310\lib\site-packages\aiosqlite\core.py", line 401, in connector
+    return sqlite3.connect(loc, **kwargs)
+sqlite3.OperationalError: unable to open database file
+2024-02-27 16:14:40,444 - INFO - Polling stopped
+2024-02-27 16:14:40,445 - INFO - Polling stopped for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:14:43,628 - INFO - Start polling
+2024-02-27 16:14:43,738 - INFO - Run polling for bot @username_2_id_bot id=7027029742 - 'Get user ID'
+2024-02-27 16:14:46,880 - INFO - Connected to the database: development
+2024-02-27 16:14:46,897 - INFO - Cursor closed
+2024-02-27 16:14:46,903 - INFO - Connection closed
+2024-02-27 16:14:46,904 - INFO - Update id=570774464 is handled. Duration 297 ms by bot id=7027029742

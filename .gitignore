@@ -1,3 +1,1 @@
-# config/secrets.ini
-# database/bot.db
-# tests
+__pycache__/
