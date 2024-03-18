@@ -1,3 +1,4 @@
 __pycache__/
 development/config.json
+development/development.db
 logs/log.log

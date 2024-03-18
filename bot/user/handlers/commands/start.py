@@ -14,5 +14,3 @@ async def start_command(message: types.Message):
     async with SQLiteDatabaseManager() as cursor:
         await cursor.execute('''CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY, username TEXT, user_id INTEGER)''')  
         await cursor.execute('''INSERT INTO users (username, user_id) VALUES (?, ?)''', (username, user_id))
-        
-__all__ = ['start_command']
