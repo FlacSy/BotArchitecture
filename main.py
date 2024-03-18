@@ -1,12 +1,13 @@
+import os
 import asyncio
+import importlib.util
 from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 
 from config.config_manager import ConfigManager
 from utils.logger import Logger
 
-from bot.user.handlers.commands.help import help_router
-from bot.user.handlers.commands.start import start_router
+from bot.user.handlers.router.user_router import user_router 
 
 config_manager = ConfigManager() 
 TOKEN = config_manager.get_config_value('Bot', 'BotToken')
@@ -14,14 +15,25 @@ TOKEN = config_manager.get_config_value('Bot', 'BotToken')
 dp = Dispatcher()
 
 async def register_routers():
-    dp.include_router(start_router)
-    dp.include_router(help_router)
+    dp.include_router(user_router)
+
+async def load_modules(directories, ignore_files = ["__init__.py"]):
+    for directory in directories:
+        for filename in os.listdir(directory):
+            if filename.endswith(".py") and filename not in ignore_files:
+                module_name = os.path.splitext(filename)[0]
+                spec = importlib.util.spec_from_file_location(module_name, os.path.join(directory, filename))
+                module = importlib.util.module_from_spec(spec)
+                spec.loader.exec_module(module)
+
 
 async def main():
     print('\033[32mБот запущен!\033[39m')
     bot = Bot(TOKEN, parse_mode=ParseMode.MARKDOWN)
     await register_routers()
     await dp.start_polling(bot)
+    dirs = [r"bot\user\handlers\commands", r"bot\user\handlers\masseges", r"bot\user\handlers\callbacks"]  
+    await load_modules(dirs)
     
 if __name__ == "__main__":
     logger = Logger()

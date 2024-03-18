@@ -1,0 +1,9 @@
+{
+    "Bot": {
+        "BotToken": "Bot Token"
+    },
+
+    "Logging": {
+        "LoggingDir": "logs"
+    }
+}

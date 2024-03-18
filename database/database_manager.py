@@ -13,12 +13,12 @@ class SQLiteDatabaseManager:
     async def __aenter__(self):
         try:
             if self.mode == "development":
-                self.conn = await aiosqlite.connect("./database/development/development.db")
+                self.conn = await aiosqlite.connect("./development/development.db")
 
             elif self.mode == "production":
-                self.conn = await aiosqlite.connect("./database/production/production.db")
+                self.conn = await aiosqlite.connect("./production/production.db")
             else:
-                self.conn = await aiosqlite.connect("./database/development/development.db")
+                self.conn = await aiosqlite.connect("./development/development.db")
             self.cursor = await self.conn.cursor()
             logging.info(f"Connected to the database: {self.mode}")
             return self.cursor

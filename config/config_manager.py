@@ -1,26 +1,31 @@
-import configparser
+import json
 import os
 
 class ConfigManager:
     def __init__(self, mode: str = 'development'):
-
         """
         Параметр `mode` это режим для конфигурации. Возможные значения: 'development' для розроботки, 'production' для продакшина
         """
-        
         self.mode = mode
-        self.config = configparser.ConfigParser()
+        self.config = {}
         self.load_config()
 
     def load_config(self):
-        base_path = os.path.dirname(os.path.abspath(__file__))
-        config_path = os.path.join(base_path, self.mode)
-        config_path = os.path.join(config_path, 'config.ini')
+        if self.mode == "development":
+            config_path = "./development/config.json"
+        elif self.mode == "production":
+            config_path = "./production/config.json"
+        else:
+            config_path = "./development/config.json"
 
         if not os.path.exists(config_path):
             raise FileNotFoundError(f"Config file not found at: {config_path}")
 
-        self.config.read(config_path, encoding='utf-8')
+        with open(config_path, 'r', encoding='utf-8') as file:
+            self.config = json.load(file)
 
     def get_config_value(self, section, option):
-        return self.config.get(section, option)
+        if section in self.config and option in self.config[section]:
+            return self.config[section][option]
+        else:
+            raise KeyError(f"Section '{section}' or option '{option}' not found in config.")
