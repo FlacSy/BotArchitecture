@@ -2,21 +2,12 @@ import json
 import os
 
 class ConfigManager:
-    def __init__(self, mode: str = 'development'):
-        """
-        Параметр `mode` это режим для конфигурации. Возможные значения: 'development' для розроботки, 'production' для продакшина
-        """
-        self.mode = mode
+    def __init__(self):
         self.config = {}
         self.load_config()
 
     def load_config(self):
-        if self.mode == "development":
-            config_path = "./development/config.json"
-        elif self.mode == "production":
-            config_path = "./production/config.json"
-        else:
-            config_path = "./development/config.json"
+        config_path = "./local/config.json"
 
         if not os.path.exists(config_path):
             raise FileNotFoundError(f"Config file not found at: {config_path}")

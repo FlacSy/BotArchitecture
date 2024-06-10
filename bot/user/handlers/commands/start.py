@@ -1,5 +1,5 @@
 from aiogram import types
-from database.database_manager import SQLiteDatabaseManager
+from managers import DatabaseManager
 from aiogram.filters import CommandStart
 from main import user_router
 
@@ -11,6 +11,6 @@ async def start_command(message: types.Message):
     user_id = message.from_user.id
     username = message.from_user.username
 
-    async with SQLiteDatabaseManager() as cursor:
+    async with DatabaseManager() as cursor:
         await cursor.execute('''CREATE TABLE IF NOT EXISTS users (id INTEGER PRIMARY KEY, username TEXT, user_id INTEGER)''')  
         await cursor.execute('''INSERT INTO users (username, user_id) VALUES (?, ?)''', (username, user_id))

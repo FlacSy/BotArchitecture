@@ -1,7 +1,7 @@
 import os
 import logging
 from logging.handlers import TimedRotatingFileHandler
-from config.config_manager import ConfigManager
+from managers import ConfigManager
 
 class Logger:
     def __init__(self, log_file_name='log.log', log_level=logging.INFO):

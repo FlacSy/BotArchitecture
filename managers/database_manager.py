@@ -1,26 +1,16 @@
 import aiosqlite
 import logging
 
-class SQLiteDatabaseManager:
-    def __init__(self, mode: str = "development"):
-        """
-        Параметр `mode` это режим для базы данных. Возможные значения: 'development' для розроботки, 'production' для продакшина
-        """
-        self.mode = mode
+class DatabaseManager:
+    def __init__(self):
         self.conn = None
         self.cursor = None
 
     async def __aenter__(self):
         try:
-            if self.mode == "development":
-                self.conn = await aiosqlite.connect("./development/development.db")
-
-            elif self.mode == "production":
-                self.conn = await aiosqlite.connect("./production/production.db")
-            else:
-                self.conn = await aiosqlite.connect("./development/development.db")
+            self.conn = await aiosqlite.connect("./local/database.sql")
             self.cursor = await self.conn.cursor()
-            logging.info(f"Connected to the database: {self.mode}")
+            logging.info(f"Connected to the database")
             return self.cursor
         except aiosqlite.Error as e:
             logging.error(f"Error connecting to the database: {e}")

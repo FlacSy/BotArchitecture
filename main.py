@@ -4,7 +4,7 @@ import importlib.util
 from aiogram import Bot, Dispatcher
 from aiogram.enums import ParseMode
 
-from config.config_manager import ConfigManager
+from managers import ConfigManager
 from utils.logger import Logger
 
 from bot.user.handlers.router.user_router import user_router 
@@ -31,7 +31,7 @@ async def main():
     bot = Bot(TOKEN, parse_mode=ParseMode.MARKDOWN)
     await register_routers()
     dirs = ["./bot/user/handlers/commands", "./bot/user/handlers/messages", "./bot/user/handlers/callbacks"]  
-    await load_modules(dirs)
+    await load_modules(dirs) 
     await dp.start_polling(bot)
     
 if __name__ == "__main__":
